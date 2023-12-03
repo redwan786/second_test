@@ -128,10 +128,10 @@ class _MyHomePageState extends State<MyHomePage> {
 /*
 
 
-Md.Redwan Hossen Hossen hossen
+Md.Redwan hossen
 DRMC
 
-আগের পর্ব না দেখে থাকলে অবশ্যই সেখান থেকে পড়া শুরু করবেন। কারণ এই লেখাটা আগের লেখার ধারাবাহিকতায় লিখা।
+
 
 hello
 
